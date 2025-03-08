@@ -1,0 +1,13 @@
+# Ecosystem Level Information
+title = "Cartesi"
+
+sub_ecosystems = []
+
+github_organizations = ["cartesi"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/cartesi/rollups"
+
+[[repo]]
+url = "https://github.com/cartesi/cartesi-machine"
