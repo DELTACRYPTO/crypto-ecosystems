@@ -1,0 +1,13 @@
+# Ecosystem Level Information
+title = "Concordium"
+
+sub_ecosystems = []
+
+github_organizations = ["Concordium"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Concordium"
+
+[[repo]]
+url = "https://github.com/Concordium/concordium-crypto"
