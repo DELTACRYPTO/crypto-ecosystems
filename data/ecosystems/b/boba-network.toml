@@ -1,0 +1,13 @@
+# Ecosystem Level Information
+title = "Boba Network"
+
+sub_ecosystems = []
+
+github_organizations = ["bobanetwork"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/bobanetwork/boba"
+
+[[repo]]
+url = "https://github.com/bobanetwork/boba-evm"
