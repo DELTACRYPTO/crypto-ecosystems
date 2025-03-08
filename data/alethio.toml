@@ -1,0 +1,13 @@
+# Ecosystem Level Information
+title = "Alethio"
+
+sub_ecosystems = []
+
+github_organizations = ["alethio"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/alethio/web3-bundle"
+
+[[repo]]
+url = "https://github.com/alethio/ethstats"
